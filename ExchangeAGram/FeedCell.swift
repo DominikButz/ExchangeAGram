@@ -10,4 +10,13 @@ import UIKit
 
 class FeedCell: UICollectionViewCell {
     
+    // no custom initialiser needed because setup already done on storyboard!
+    
+    @IBOutlet weak var imageView: UIImageView!
+    
+    
+    @IBOutlet weak var captionLabel: UILabel!
+    
+    
+    
 }

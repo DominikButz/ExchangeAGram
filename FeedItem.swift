@@ -9,6 +9,8 @@
 import Foundation
 import CoreData
 
+@objc(FeedItem)
+
 class FeedItem: NSManagedObject {
 
     @NSManaged var caption: String

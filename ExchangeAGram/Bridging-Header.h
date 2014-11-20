@@ -6,8 +6,6 @@
 //  Copyright (c) 2014 Duoyun. All rights reserved.
 //
 
-#ifndef ExchangeAGram_Bridging_Header_h
-#define ExchangeAGram_Bridging_Header_h
 
+#import <FacebookSDK/FacebookSDK.h>
 
-#endif
